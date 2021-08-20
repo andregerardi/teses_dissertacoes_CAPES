@@ -1,0 +1,2 @@
+# teses_dissertacoes_CAPES
+O modelo pode ser utilizado para a produção de um banco de dados de trabalhos acadêmicos. Na segunda parte, utilizo os dados para quantificar a produção no tempo. Em seguida, utilizo os dados de trabalhos para obter os resumos disponíveis, palavras chave, dentre outras informações acadêmicas, que podem ser uteis para a produção de redes, wordclouds, entre outras análises.
