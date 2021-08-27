@@ -1,8 +1,7 @@
-# teses_dissertacoes_CAPES
 
 A presente análise visa oferecer dados sobre a evolução da produção acadêmica sobre Escola sem Partido e "ideologia de gênero" no Portal de Teses e Disertaçãoes da Capes.
 
-## Por qual motivo construí tais scripts?
+## O que motivou a construção desses scripts?
 
 1. Produzir uma lista revisão bibliográfica detalhada sobre os projetos e o programa "Escola sem Partido" no Congresso Nacional;
 2. Produzir dados sobre os autores, instituições onde atuam, seus orientadores e a composição da banca de defesa, para a realização de um estudo de redes (não realizado).
