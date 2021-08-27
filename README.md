@@ -10,7 +10,7 @@ Os algorítimos epregados permitem a produção de um banco de dados de trabalho
 
 O objetivo principal da construção desses scripts são:
 
-a. Produzir uma lista revisão bibliográfica detalhada sobre os projetos e o programa "Escola sem Partido" no Congresso Nacional;
-b. Produzir dados sobre os autores, instituições onde atuam, seus orientadores e a composição da banca de defesa, para a realização de um estudo de redes (não realizado).
+1. Produzir uma lista revisão bibliográfica detalhada sobre os projetos e o programa "Escola sem Partido" no Congresso Nacional;
+2. Produzir dados sobre os autores, instituições onde atuam, seus orientadores e a composição da banca de defesa, para a realização de um estudo de redes (não realizado).
 
 Apesar da utilização desse modelo para extrair dados de pesquisas sobre o Escola sem Partido, é possível investigar outros temas.
