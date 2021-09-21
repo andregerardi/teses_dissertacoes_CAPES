@@ -12,6 +12,6 @@ Os algorítimos empregados permitem a produção de um banco de dados de trabalh
 
 1. A primeira parte é técnica, e visa extrair os dados do portal de Teses e Dissertações da Capes por tema;
 2. Em seguinda, utilizo os dados iniciais para obter os resumos dos trabalhos, entre outras informações; 
-3. Na ultima parte analiso alguns dados. Essas informações compõe o banco geral e um outro banco que contém apenas resumos. Há gráficos, listas e wordclouds.
+3. Na última parte analiso alguns dados. Essas informações compõe o banco geral e um outro banco que contém apenas resumos. Há gráficos, listas e wordclouds.
 
 
