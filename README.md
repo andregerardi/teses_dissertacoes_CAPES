@@ -6,7 +6,7 @@ A presente análise visa oferecer dados sobre a evolução da produção acadêm
 1. Produzir uma revisão bibliográfica detalhada sobre o programa "Escola sem Partido" no Congresso Nacional;
 2. Obter dados dos autores, instituições onde atuam, seus orientadores e a composição da banca de defesa, para a realização de um estudo de redes (em construção).
 
-Os algorítimos empregados permitem a produção de um banco de dados de trabalhos sobre a temática do "Escola sem Partido". Embora realize a extração de dados de pesquisas sobre o Escola sem Partido, o modelo pode ser replicado para a investigação de outras tematicas. Usei os dados disponíveis no portal para obter os resumos disponíveis, palavras-chave, dentre outras informações interessantes, que foram uteis para a produção de redes básicas, wordclouds, assim como a realização de outras análises ligadas ao [meu projeto de pós-doutorado](https://bv.fapesp.br/pt/pesquisador/705564/dirceu-andre-gerardi/) financiado pela Fapesp.
+Os algorítimos empregados permitem a produção de um banco de dados de trabalhos sobre a temática do "Escola sem Partido". Embora realize a extração de dados de pesquisas sobre o Escola sem Partido, o modelo pode ser replicado para a investigação de outras tematicas. Usei os dados disponíveis no Portal para obter os resumos dos trabalhos, palavras-chave, dentre outras informações interessantes, que podem ser úteis para a produção de redes básicas, wordclouds, assim como a realização de outras análises ligadas ao [meu projeto de pós-doutorado](https://bv.fapesp.br/pt/pesquisador/705564/dirceu-andre-gerardi/) financiado pela Fapesp.
 
 ## Qual é o conteúdo dos notebooks?
 
